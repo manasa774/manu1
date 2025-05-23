@@ -1,0 +1,3 @@
+DevOps Course 
+In that we learning about 
+Git and GitHub
