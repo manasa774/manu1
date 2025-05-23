@@ -1,0 +1,5 @@
+syllabus
+git/github
+linux
+bash scripting
+mavon
